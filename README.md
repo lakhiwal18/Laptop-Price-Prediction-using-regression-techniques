@@ -27,11 +27,10 @@ Based on the evaluation results, we choose the best-performing model to deploy f
 ## Dependencies:
 Make sure you have the following libraries installed to run the project:
 
-Python (version Python 3.10.4)
-Pandas
-NumPy
-Matlpotlib
-Seaborn
-
-Scikit-learn
-Jupyter Notebook (for interactive data exploration and analysis)
+## Python (version Python 3.10.4)
+## Pandas
+## NumPy
+## Matlpotlib
+## Seaborn
+## Scikit-learn
+## Jupyter Notebook (for interactive data exploration and analysis)
