@@ -1,18 +1,22 @@
-# Laptop-Price-Prediction-using-regression-techniques
-## Objective:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG05bjF5cWsycmp1NXZlbzRlOHB1NHN0aG9wd3ZibGs1enh6cHZuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pk7xVgSZoseNEa2roe/giphy.gif" width="900" height="400"/>
+</div>
+
+# Laptop-Price-Prediction-using-regression-techniques:-
+
 The objective of this machine learning project is to build a predictive model that can accurately estimate the price of laptops based on various features and specifications. By training the model on historical laptop data, we aim to develop a reliable tool that can assist both buyers and sellers in determining fair and competitive prices for different laptop configurations.
 
-## Project Overview
+## Project Overview:-
 In this project, we explore a dataset containing information about various laptops, including 'Company', 'TypeName', 'Inches', 'ScreenResolution','Cpu', 'Ram', 'Memory', 'Gpu', 'OpSys', 'Weight', and other relevant attributes. Leveraging this dataset, we apply different machine learning algorithms, such as Linear Regression, Ridge Regression, Lasso Regression, Decision Tree Regressor, and Random Forest Regressor, to predict laptop prices.
 
-## Dataset:
+## Dataset:-
 The dataset used in this project contains laptop specifications and corresponding prices.The dataset is available in the repository. The data consists of 1303 samples and 10 features.
 
-## Methodology:
+## Methodology:-
 ### Data Preprocessing:
 We perform data cleaning, handle missing values (if any), and perform feature engineering to extract meaningful insights from the available attributes.
 
-### Feature Selection:
+### Feature Selection:-
 Selecting relevant features plays a crucial role in model performance. We conduct feature selection techniques to identify the most significant attributes for laptop price prediction.
 
 ### Model Training:
